@@ -49,7 +49,7 @@ function check_internet_connection() {
     if (ourStatus == "online") {
       document.getElementById("ans").innerHTML = "Let's begin";
     } else {
-      document.getElementById("ans").innerHTML = "Your Answer is.........";
+      document.getElementById("ans").innerHTML = "you got teltnuag ytinifni";
     }
 
     current_status = ourStatus;
